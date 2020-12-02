@@ -10,9 +10,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamisson-jader-ab2963180/)](https://www.linkedin.com/in/jamisson-jader-ab2963180/)
 </div>
 
-My name is Jamisson and I am from Brazil. I am currently taking the Computer Engineering degree. At my university I am able to work with data science, robotics, mobile development and simulation projects. I love dogs and I am very lucky to have the friends I have ❤️
+My name is Jamisson and I am from Brazil. I am currently taking the Computer Engineering degree. At my university I am working with data science, robotics, mobile development and simulation projects. I love dogs and I am very lucky to have the friends I have ❤️
 
-- 🔭 I’m currently working on [Locobots](https://locobots.github.io/pages/sobre.html#sobre)
+- 🔭 I’m currently working at [Locobots](https://locobots.github.io/pages/sobre.html#sobre)
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: jjader03@gmail.com
 - 😄 Pronouns: He/His
