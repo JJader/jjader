@@ -28,31 +28,29 @@ My name is Jamisson and I am from Brazil. I am currently taking the Computer Eng
   </br>
   
   <a href="https://github.com/jjader">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjader&show_icons=true&count_private=true&line_height=40"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjader&show_icons=true&count_private=true&line_height=40&theme=dracula"/>
   </a>
 
   <a href="https://github.com/jjader">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjader" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjader&theme=dracula" />
   </a>
-
+  
   </br>
   </br>
   </br>
 
   <a href="https://github.com/JJader/Hackathon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjader&repo=hackathon&height=40" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjader&repo=hackathon&height=40&theme=dracula" />
   </a>
 
   <a href="https://github.com/JJader/Monitoramento">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjader&repo=Monitoramento&height=40" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjader&repo=Monitoramento&height=40&theme=dracula" />
   </a>
+  
+  </br>
 
-  <a href="https://github.com/Locobots/Projeto_Proativa_3D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Locobots&repo=Projeto_Proativa_3D&height=40" />
-  </a>
-
-  <a href="https://github.com/Locobots/Projeto_Proativa_3D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Locobots&repo=Segue_linha_simulacao&height=40" />
+  <a href="https://github.com/JJader/pinca.me">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjader&repo=pinca.me&height=40&theme=dracula" />
   </a>
   
   </div>
