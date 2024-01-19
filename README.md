@@ -10,10 +10,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamisson-jader-ab2963180/)](https://www.linkedin.com/in/jamisson-jader-ab2963180/)
 </div>
 
-My name is Jamisson and I am from Brazil. I am currently taking the Computer Engineering degree. At my university I am working with data science, robotics, mobile development and simulation projects. I love dogs and I am very lucky to have the friends I have ❤️
+My name is Jamisson and I am from Brazil. Graduated in Computer Engineering from the Federal University of Outro Preto (UFOP), specializing in robotics and scientific research. 
 
-- 🔭 I’m currently working at [Locobots](https://locobots.github.io/pages/sobre.html#sobre)
-- 🌱 I’m currently learning Data Science 
+Professional experience in the field of Machine Learning Engineer, with knowledge in cloud infrastructure, including GCP, AWS, and Open Source. Committed to innovation and the development of scalable solutions for complex challenges.
+
+- 🌱 I’m currently learning Machine Learning Engineer
 - 📫 How to reach me: jjader03@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: In my fraternity my nickname is Nissin because I ate a lot of noodles 🍜
